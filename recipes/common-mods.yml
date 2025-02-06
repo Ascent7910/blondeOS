@@ -1,2 +1,2 @@
 modules:
-    type: signing
+  - type: signing
